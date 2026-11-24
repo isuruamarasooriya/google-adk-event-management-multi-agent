@@ -89,6 +89,12 @@ Open the local URL displayed in the terminal:
 http://127.0.0.1:8000
 ```
 
+## Demo
+
+The following screenshot shows the EventSphere multi-agent system running in the Google ADK web interface.
+
+![EventSphere ADK Demo](screenshots/adk-demo.png)
+
 ## Example Requests
 
 ### Venue Agent
